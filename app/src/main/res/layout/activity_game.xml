@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nature"
+    android:orientation="vertical"
+    tools:context=".GameActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="70dp"
+        android:gravity="center_horizontal"
+        android:text="menin atim kim "
+        android:textSize="30sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="14dp"
+        android:backgroundTint="@color/purple_200"
+        android:text=" Gulzada "
+
+        app:cornerRadius="@dimen/margin_16" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="14dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="Gawhar"
+        app:cornerRadius="@dimen/margin_16" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="14dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="Gulnur"
+        app:cornerRadius="@dimen/margin_16" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/margin_16"
+        android:layout_marginTop="14dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="shifu"
+        app:cornerRadius="@dimen/margin_16" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_margin="@dimen/margin_16"
+        android:backgroundTint="#00BCD4"
+        android:text="continue"
+        app:cornerRadius="19dp" />
+
+android :ddfj    fgor wirg0i dghhtdoglb iftr gdfjadrit0-pdoogjsopdi9rvk dfghdggdt egofjdtpi h
+
+
+
+</LinearLayout>
